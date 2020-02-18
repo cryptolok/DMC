@@ -15,7 +15,7 @@ This power level can be converted into an approximate distance using some math b
 
 The basic idea is the more strong the signal, the closer you're to the host and vice versa. 
 
-This can be mathematically formalized using [Free-space path loss](https://en.wikipedia.org/wiki/Free-space_path_loss) logarithmic attenuation :
+Although the position of an electron can't be determined and neither its energy, this can be mathematically formalized using [Free-space path loss](https://en.wikipedia.org/wiki/Free-space_path_loss) logarithmic attenuation :
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/d67383c841df29b0a53dc71afe86ae84683232df)
 
