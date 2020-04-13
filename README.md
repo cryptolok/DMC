@@ -6,7 +6,7 @@ A simple decibel-meter converter that shows an approximate distance to a Wi-Fi d
 Dependencies:
 * **Aircrack-NG** - a pretty basic toolset for Wi-Fi analysis
 	- Airodump-ng - to sniff the wireless traffic
-* **Python** - whatever version, only used to simplify the calculations
+* **Python** - whatever version, only used to simplify the math
 
 ## How it works
 
